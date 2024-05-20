@@ -30,4 +30,9 @@
 
 ![Концептуальная модель](https://github.com/verbovyar/DBProject/blob/main/docs/conceptual-model.png)
 
+**Логическая модель**
+
+
+![Логическая модель](https://github.com/verbovyar/DBProject/blob/main/docs/logical-model.png)
+
 База данных находится в третьей нормальной форме. Таблица fs.sessions является версионной с типом SCD 4, история изменений хранится в отдельной таблице. 
